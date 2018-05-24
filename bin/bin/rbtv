@@ -1,0 +1,2 @@
+#!/bin/sh
+livestreamer -v twitch.tv/rocketbeanstv best  --player "mpv --cache=8192" 

@@ -1,0 +1,2 @@
+#!/bin/bash
+rdesktop -g 1600x1000 -5 -K -r clipboard:CLIPBOARD win10 

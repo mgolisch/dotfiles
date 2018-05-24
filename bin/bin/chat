@@ -1,0 +1,2 @@
+#!/bin/sh
+ssh -t mgolisch@mgolisch.eu tmux attach
